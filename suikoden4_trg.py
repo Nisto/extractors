@@ -1,3 +1,5 @@
+# Suikoden 4 trg.bin extractor
+
 import os
 import sys
 import struct
