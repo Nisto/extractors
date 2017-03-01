@@ -28,7 +28,7 @@ def get_c_str(buf, off):
 
 def main(argc=len(sys.argv), argv=sys.argv):
     if argc != 2:
-        print("Usage: %s <irxpack.bin>")
+        print("Usage: %s <irxpack.bin>" % argv[0])
         return 1
 
     inpath = os.path.realpath(argv[1])
