@@ -1,3 +1,5 @@
+# Harvest Moon (GC) sound arc extractor
+
 import os
 import sys
 import struct
