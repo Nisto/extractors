@@ -1,5 +1,5 @@
 # Lost Kingdoms (GC)
-# Splits .pps files into standard MusyX formats (pool, proj, sdir, song)
+# Splits .pps files into standard MusyX formats (pool, proj, sdir)
 
 import os
 import sys
